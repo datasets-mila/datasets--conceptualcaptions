@@ -3,3 +3,7 @@
 /.tmp/
 /logs/
 /bin/gsutil_build/
+/Train/*
+!/Train/GCC-training.tsv
+/Validation/*
+!/Validation/GCC-1.1.0-Validation.tsv
