@@ -2,6 +2,8 @@
 Conceptual Captions
 ###################
 
+`<https://ai.google.com/research/ConceptualCaptions/>`_
+
 ****************************
 Creating Conceptual Captions
 ****************************
